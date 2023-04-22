@@ -1,0 +1,15 @@
+Epoch: 1, Train_accuracy:77.48%, Train_loss:0.1210
+Epoch: 2, Train_accuracy:88.31%, Train_loss:0.0612
+Epoch: 3, Train_accuracy:90.04%, Train_loss:0.0526
+Epoch: 4, Train_accuracy:90.87%, Train_loss:0.0482
+Epoch: 5, Train_accuracy:91.32%, Train_loss:0.0460
+Epoch: 6, Train_accuracy:91.77%, Train_loss:0.0439
+Epoch: 7, Train_accuracy:91.87%, Train_loss:0.0430
+Epoch: 8, Train_accuracy:92.12%, Train_loss:0.0424
+Epoch: 9, Train_accuracy:92.14%, Train_loss:0.0421
+Epoch:10, Train_accuracy:92.30%, Train_loss:0.0413
+Epoch:11, Train_accuracy:92.36%, Train_loss:0.0411
+Epoch:12, Train_accuracy:92.35%, Train_loss:0.0408
+Epoch:13, Train_accuracy:92.31%, Train_loss:0.0408
+Epoch:14, Train_accuracy:92.36%, Train_loss:0.0408
+Epoch:15, Train_accuracy:92.44%, Train_loss:0.0405
